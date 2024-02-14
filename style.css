@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+h1,h2,th,label{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.btn_style{
+    width: 100px;
+}
+.card-body{
+    align-content: center;
+}
+.card{
+    padding: 30px;
+    margin: 30px;
+}
